@@ -1,4 +1,5 @@
 # Flappy Bee
+![image](https://github.com/H4ide/Flappy_Bee/assets/54513784/97a0c99b-f95f-4fb7-b248-2c2214e4a12b)
 
 Flappy Bee is a fun and challenging game where you navigate a bee through a series of pipes without hitting them. The game is built using Windows Forms and offers a simple yet addictive gameplay experience.
 
