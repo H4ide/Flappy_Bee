@@ -1,0 +1,22 @@
+C:\Users\Nail Bildanov\Desktop\C#\Courses\Flappy Bird windows form\Flappy Bird windows form\bin\Debug\Flappy Bird windows form.exe.config
+C:\Users\Nail Bildanov\Desktop\C#\Courses\Flappy Bird windows form\Flappy Bird windows form\bin\Debug\Flappy Bird windows form.exe
+C:\Users\Nail Bildanov\Desktop\C#\Courses\Flappy Bird windows form\Flappy Bird windows form\bin\Debug\Flappy Bird windows form.pdb
+C:\Users\Nail Bildanov\Desktop\C#\Courses\Flappy Bird windows form\Flappy Bird windows form\obj\Debug\Flappy Bird windows form.csproj.AssemblyReference.cache
+C:\Users\Nail Bildanov\Desktop\C#\Courses\Flappy Bird windows form\Flappy Bird windows form\obj\Debug\Flappy Bird windows form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nail Bildanov\Desktop\C#\Courses\Flappy Bird windows form\Flappy Bird windows form\obj\Debug\Flappy_Bird_windows_form.Form1.resources
+C:\Users\Nail Bildanov\Desktop\C#\Courses\Flappy Bird windows form\Flappy Bird windows form\obj\Debug\Flappy_Bird_windows_form.Properties.Resources.resources
+C:\Users\Nail Bildanov\Desktop\C#\Courses\Flappy Bird windows form\Flappy Bird windows form\obj\Debug\Flappy Bird windows form.csproj.GenerateResource.cache
+C:\Users\Nail Bildanov\Desktop\C#\Courses\Flappy Bird windows form\Flappy Bird windows form\obj\Debug\Flappy Bird windows form.csproj.CoreCompileInputs.cache
+C:\Users\Nail Bildanov\Desktop\C#\Courses\Flappy Bird windows form\Flappy Bird windows form\obj\Debug\Flappy Bird windows form.exe
+C:\Users\Nail Bildanov\Desktop\C#\Courses\Flappy Bird windows form\Flappy Bird windows form\obj\Debug\Flappy Bird windows form.pdb
+C:\Program Files (x86)\csharp_projects\Flappy Bird windows form\Flappy Bird windows form\bin\Debug\Flappy Bird windows form.exe.config
+C:\Program Files (x86)\csharp_projects\Flappy Bird windows form\Flappy Bird windows form\bin\Debug\Flappy Bird windows form.exe
+C:\Program Files (x86)\csharp_projects\Flappy Bird windows form\Flappy Bird windows form\bin\Debug\Flappy Bird windows form.pdb
+C:\Program Files (x86)\csharp_projects\Flappy Bird windows form\Flappy Bird windows form\obj\Debug\Flappy Bird windows form.csproj.AssemblyReference.cache
+C:\Program Files (x86)\csharp_projects\Flappy Bird windows form\Flappy Bird windows form\obj\Debug\Flappy Bird windows form.csproj.SuggestedBindingRedirects.cache
+C:\Program Files (x86)\csharp_projects\Flappy Bird windows form\Flappy Bird windows form\obj\Debug\Flappy_Bird_windows_form.Properties.Resources.resources
+C:\Program Files (x86)\csharp_projects\Flappy Bird windows form\Flappy Bird windows form\obj\Debug\Flappy Bird windows form.csproj.GenerateResource.cache
+C:\Program Files (x86)\csharp_projects\Flappy Bird windows form\Flappy Bird windows form\obj\Debug\Flappy Bird windows form.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\csharp_projects\Flappy Bird windows form\Flappy Bird windows form\obj\Debug\Flappy Bird windows form.exe
+C:\Program Files (x86)\csharp_projects\Flappy Bird windows form\Flappy Bird windows form\obj\Debug\Flappy Bird windows form.pdb
+C:\Program Files (x86)\csharp_projects\Flappy Bird windows form\Flappy Bird windows form\obj\Debug\Flappy_Bird_windows_form.Form1.resources
